@@ -184,6 +184,6 @@ if (element.isDisplayed())
 return true;
 else
 return false;
-
+//this is the last note for changes from repository
 }
 }
